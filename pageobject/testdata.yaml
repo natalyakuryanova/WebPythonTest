@@ -1,0 +1,14 @@
+user: natalyanatalyanatalyaKuryanova
+pwd: 7ec7ee1aee
+
+sleep_time: 1
+browser: chrome
+wait: 5
+
+post_title: "My PageObject post title"
+post_desc: "My PageObject post desc"
+post_content: "My PageObject post content"
+
+your_name: "Nataly"
+your_email: "myemail@gmail.com"
+your_content: "My message for Contact Us from PageObject"
