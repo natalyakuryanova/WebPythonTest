@@ -1,0 +1,12 @@
+2024-52-10/30/24 03:52:47 INFO Test API search by title is starting
+2024-52-10/30/24 03:52:48 INFO Test API create post is starting
+2024-52-10/30/24 03:52:49 INFO Test API search my just created post by desc is starting
+2024-52-10/30/24 03:52:49 INFO ====== WebDriver manager ======
+2024-52-10/30/24 03:52:50 INFO Get LATEST chromedriver version for google-chrome
+2024-52-10/30/24 03:52:50 INFO Get LATEST chromedriver version for google-chrome
+2024-52-10/30/24 03:52:50 INFO Driver [C:\Users\aak203c\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-52-10/30/24 03:52:51 INFO Test Negative Login Starting
+2024-53-10/30/24 03:53:03 INFO Test Positive Login Starting
+2024-53-10/30/24 03:53:04 INFO Test Add New Post Starting
+2024-53-10/30/24 03:53:07 INFO Test Contact Us Starting
+2024-53-10/30/24 03:53:12 INFO We find text Form successfully submitted in alert
