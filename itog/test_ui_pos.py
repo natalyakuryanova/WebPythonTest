@@ -5,8 +5,8 @@ import logging
 with open("./testdata.yaml") as f:
     testdata = yaml.safe_load(f)
 
-name = testdata.get('user')
-pwd = testdata.get('pwd')
+name = testdata['user']
+pwd = testdata['pwd']
 
 
 class TestUIPos:

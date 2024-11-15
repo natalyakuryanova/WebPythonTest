@@ -4,8 +4,8 @@ import yaml
 with open("cmddata.yaml") as f:
     cmddata = yaml.safe_load(f)
 
-address = cmddata.get('address')
-tuning = cmddata.get('tuning')
+address = cmddata['address']
+tuning = cmddata['tuning']
 
 class TestPositive:
     def test_nikto(self):
